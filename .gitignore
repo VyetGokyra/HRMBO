@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+env/
+venv/
+build/
+dist/
+*.egg-info/
+# Do not ignore result files so that experiment outputs can be versioned
+# results/*.json
